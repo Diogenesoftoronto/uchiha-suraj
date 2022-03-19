@@ -1,28 +1,30 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Diogenes of toronto</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
 </p>
 
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h2 align="center">I'm a passionate Full Stack Developer from Toronto, Canada.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on my **Blogging site.** 
+- 🔭 I’m currently working on my **A personal portfolio, a blog, a game called tweetio(on perpetual hold for now), and a an app called Write and Tell (many more).** 
 
-- 🌱 I’m currently learning **PostgreSQL and NextJS.**
+- 🌱 I’m currently learning **Flutter/Dart, Firebase, and WebXR.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **suraj.developer.777@gmail.com**
+- 📫 How to reach me **diogenesoft@protonmail.com**
 
 - ⚡ About Me : 
-    - **keen observer. ✨**
-    - **always appreciate art. 🎭**
-    - **love pets. 🐼**
-    - **I am open to read and learn anything, which interest me. 😅**
-    - **like to read Books, watch Documentary, read Manga, watch Anime and Movies. 😉** 
+    - **Super observer. 👀**
+    - **Super Fast Learner. 🎓**
+    - **Wanna be Piano-forte maestro. 🎹**
+    - **I am trying to improve my art skills with [drawabox](http://www.drawabox.com). 🎭**
+    - **I love cats, I've got a golden ragtail. 🐱**
+    - **I am primarily interested in Philosophical and Futurist discussions. Helps me cope with anxiety 😅**
+    - **Reading every available webnovel on [royalroad](https://www.royalroad.com), Pian. 😉** 
     
 ## 🚀 Languages and Tools:
 
@@ -57,10 +59,10 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=uchiha-suraj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
+    <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogenesoftoronto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
   </p>
   <p align="center">
-    <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Suraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchiha-suraj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
+    <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Suraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesoftoronto&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
   </p>
     
   <br/>
@@ -71,7 +73,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/uchiha-suraj/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=uchiha-suraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/diogenesoftoronto/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=diogenesoftoronto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -83,11 +85,12 @@
 </h2>
 
 <p align="center">
-
-<a href = "https://www.linkedin.com/in/suraj-adhikary-851960178/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/45/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+<!-- 
+to add later
+<a href = "https://www.linkedin.com/in/suraj-adhikary-851960178/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/45/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a> -->
 <!-- <a href = ""><img src="https://img.icons8.com/doodle/50/000000/quora--v1.png"/></a> -->
     
-<!-- <a href = ""><img src="https://img.icons8.com/stickers/50/000000/twitter.png"/></a> -->
-<!-- <a href = ""><img src="https://img.icons8.com/stickers/50/000000/instagram-new--v2.png"/></a> -->
+<a href = "https://twitter.com/dio_of_6"><img src="https://img.icons8.com/stickers/50/000000/twitter.png"/>
+</a>
 
 </p>
